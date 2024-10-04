@@ -1,0 +1,15 @@
+text to column : sepereted trip creation date and time and type change 
+		split source name and city
+		replace ) to blank
+		Rename columns
+		split desination name and city rename and replaced
+		ignore null values 
+		rename destinetion city
+measures:	
+	delivery efficiency
+	avg delivery time
+	total actual time
+	total deliveries 
+	total delivery time
+	total distance
+		
